@@ -22,6 +22,9 @@ const Hero = () => {
         Read in minutes <br className="max-md:hidden " />
         <span className="orange_gradient ">ZOKO- OpenAI</span>
       </h1>
+      <h2 className="desc">
+        Save your time by reading clear and consize summary <br className="max-md:hidden " />of long article in few lines.
+      </h2>
     </header>
   );
 };
