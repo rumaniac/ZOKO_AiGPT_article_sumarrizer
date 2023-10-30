@@ -6,9 +6,9 @@ import "./App.css";
 const App = () => {
   return (
     <main>
-      <div className='main'>
+      <din className='main'>
         <div className='gradient' />
-      </div>
+      </din>
 
       <div className='app'>
         <Hero />
